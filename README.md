@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Muhammad Umer<br>I’m a passionate learner and developer who enjoys building projects, exploring new technologies, and improving my skills one commit at a time. I like turning ideas into real, working solutions and learning how things work under the hood.<br>💻 Interested in software development, problem-solving, and creative projects<br>🌱 Currently learning and improving my skills in [languages/technologies]<br>🛠️ Enjoy working on personal projects, experiments, and open-source code<br>🚀 Always curious, always learning
+👋 Hi, I’m Muhammad Umer<br>I’m a passionate learner and developer who enjoys building projects, exploring new technologies, and improving my skills one commit at a time. I like turning ideas into real, working solutions and learning how things work under the hood.<br>💻 Interested in software development, problem-solving, and creative projects<br>🌱 Currently learning and improving my skills in Python Java and C<br>🛠️ Enjoy working on personal projects, experiments, and open-source code<br>🚀 Always curious, always learning
 
 
 ## 🌐 Socials:
