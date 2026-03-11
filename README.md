@@ -11,6 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Looka708&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Looka708&theme=codeSTACKr&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Looka708&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/m_umer_xd?theme=dark&font=baloo&ext=contest)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
